@@ -2,17 +2,7 @@
 
 This project fine-tunes a small Transformer model for text classification using PyTorch and Hugging Face. It demonstrates a complete NLP training workflow: dataset loading, tokenization, model fine-tuning, evaluation, and prediction.
 
-## Why this project matters
 
-The goal is to build a clean, reproducible text classification pipeline rather than just call a hosted API. The project covers practical machine learning engineering skills such as:
-
-- PyTorch-backed model training
-- Hugging Face Transformers
-- Tokenization and dataset preprocessing
-- Train/validation splits
-- Accuracy and F1 evaluation
-- Saving and reloading trained models
-- Running inference on new text
 
 ## Tech stack
 
@@ -65,7 +55,3 @@ python predict.py
 ```
 
 Example prediction text is included in `predict.py`.
-
-## Skills demonstrated
-
-This project demonstrates beginner-to-intermediate experience with modern NLP model training workflows. It uses a Transformer model with a PyTorch backend and includes preprocessing, training, evaluation, and inference steps.
