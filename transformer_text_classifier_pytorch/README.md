@@ -22,15 +22,6 @@ transformer_text_classifier_pytorch/
 └── .gitignore
 ```
 
-## Setup
-
-```bash
-python -m venv venv
-venv\Scripts\activate  # Windows
-# source venv/bin/activate  # Mac/Linux
-
-pip install -r requirements.txt
-```
 
 ## Train the model
 
