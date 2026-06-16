@@ -1,8 +1,6 @@
 # Transformer Text Classification with PyTorch and Hugging Face
 
-This project fine-tunes a small Transformer model for text classification using PyTorch and Hugging Face. It demonstrates a complete NLP training workflow: dataset loading, tokenization, model fine-tuning, evaluation, and prediction.
-
-
+This project fine-tunes a small Transformer model for text classification using PyTorch and Hugging Face. 
 
 ## Tech stack
 
